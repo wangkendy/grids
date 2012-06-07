@@ -1,13 +1,12 @@
 /*
  * Source: http://poj.grids.cn/practice/2698/
  * Description: Eight Queen Problem
- * Tag: recursion
+ * Tag: permutation
  *
  */
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <cstdlib>
 using namespace std;
 
 typedef vector<int> vi;
