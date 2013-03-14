@@ -1,0 +1,10 @@
+# Start of my config file
+
+# time config
+timevar TIMESLOT  120
+timevar TIMEOUT 600
+
+# port config
+portvar HTTP_PORTS [80,8000,8080,8888]
+
+# End of the config file
